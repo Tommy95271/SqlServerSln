@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[PNLPICTURE] (
+    [PNIDX]   DECIMAL (10)  NULL,
+    [PICID]   DECIMAL (3)   NULL,
+    [PICNAME] NVARCHAR (20) NULL,
+    [PICFILE] IMAGE         NULL
+);
+
