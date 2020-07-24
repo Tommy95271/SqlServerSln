@@ -206,7 +206,7 @@
     <Build Include="dbo\Stored Procedure\Procedure1.sql" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="PsaMySqlTestDB.publish.xml" />
     <None Include="dbo\Comparison\PsaMySqlTestComparison.scmp" />
+    <None Include="Publish\PsaMySqlTestDB.publish.xml" />
   </ItemGroup>
 </Project>
